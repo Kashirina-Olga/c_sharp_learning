@@ -1,0 +1,5 @@
+D:\OLGA\RGS\Подготовка\Задания\Task2\Task2\bin\Release\Task2.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task2\Task2\bin\Release\Task2.exe
+D:\OLGA\RGS\Подготовка\Задания\Task2\Task2\bin\Release\Task2.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task2\Task2\obj\Release\Task2.exe
+D:\OLGA\RGS\Подготовка\Задания\Task2\Task2\obj\Release\Task2.pdb
