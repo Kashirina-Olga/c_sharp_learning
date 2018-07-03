@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\EvenElementsSumTask\bin\Debug\EvenElementsSumTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\EvenElementsSumTask\bin\Debug\EvenElementsSumTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\EvenElementsSumTask\bin\Debug\EvenElementsSumTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\EvenElementsSumTask\obj\Debug\EvenElementsSumTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\EvenElementsSumTask\obj\Debug\EvenElementsSumTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\EvenElementsSumTask\obj\Debug\EvenElementsSumTask.csprojResolveAssemblyReference.cache

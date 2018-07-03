@@ -1,0 +1,5 @@
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\NonPositiveSumTask\bin\Debug\NonPositiveSumTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\NonPositiveSumTask\bin\Debug\NonPositiveSumTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\NonPositiveSumTask\bin\Debug\NonPositiveSumTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\NonPositiveSumTask\obj\Debug\NonPositiveSumTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\NonPositiveSumTask\obj\Debug\NonPositiveSumTask.pdb

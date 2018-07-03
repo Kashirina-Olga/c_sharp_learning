@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\ReplaceToZeroTask\bin\Debug\ReplaceToZeroTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\ReplaceToZeroTask\bin\Debug\ReplaceToZeroTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\ReplaceToZeroTask\bin\Debug\ReplaceToZeroTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\ReplaceToZeroTask\obj\Debug\ReplaceToZeroTask.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\ReplaceToZeroTask\obj\Debug\ReplaceToZeroTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\ReplaceToZeroTask\obj\Debug\ReplaceToZeroTask.pdb

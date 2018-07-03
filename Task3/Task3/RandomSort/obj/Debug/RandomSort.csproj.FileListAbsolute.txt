@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\RandomSort\bin\Debug\RandomSort.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\RandomSort\bin\Debug\RandomSort.exe
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\RandomSort\bin\Debug\RandomSort.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\RandomSort\obj\Debug\RandomSort.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\RandomSort\obj\Debug\RandomSort.exe
+D:\OLGA\RGS\Подготовка\Задания\Task3 - Arrays\Task3\RandomSort\obj\Debug\RandomSort.pdb
