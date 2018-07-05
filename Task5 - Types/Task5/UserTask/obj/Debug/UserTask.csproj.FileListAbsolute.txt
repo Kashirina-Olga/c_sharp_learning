@@ -1,0 +1,5 @@
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\UserTask\bin\Debug\UserTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\UserTask\bin\Debug\UserTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\UserTask\bin\Debug\UserTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\UserTask\obj\Debug\UserTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\UserTask\obj\Debug\UserTask.pdb

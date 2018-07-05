@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\Task5\bin\Debug\Task5.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\Task5\bin\Debug\Task5.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\Task5\bin\Debug\Task5.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\Task5\obj\Debug\Task5.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\Task5\obj\Debug\Task5.pdb

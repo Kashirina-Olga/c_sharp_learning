@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\RoundTask\bin\Debug\RoundTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\RoundTask\bin\Debug\RoundTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\RoundTask\bin\Debug\RoundTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\RoundTask\obj\Debug\RoundTask.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\RoundTask\obj\Debug\RoundTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\RoundTask\obj\Debug\RoundTask.pdb

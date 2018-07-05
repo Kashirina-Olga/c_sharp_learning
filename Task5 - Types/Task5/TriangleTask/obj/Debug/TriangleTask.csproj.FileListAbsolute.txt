@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\TriangleTask\bin\Debug\TriangleTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\TriangleTask\bin\Debug\TriangleTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\TriangleTask\bin\Debug\TriangleTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\TriangleTask\obj\Debug\TriangleTask.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\TriangleTask\obj\Debug\TriangleTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\TriangleTask\obj\Debug\TriangleTask.pdb

@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\OverloadingTask\bin\Debug\OverloadingTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\OverloadingTask\bin\Debug\OverloadingTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\OverloadingTask\bin\Debug\OverloadingTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\OverloadingTask\obj\Debug\OverloadingTask.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\OverloadingTask\obj\Debug\OverloadingTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task5 - Types\Task5\OverloadingTask\obj\Debug\OverloadingTask.pdb
