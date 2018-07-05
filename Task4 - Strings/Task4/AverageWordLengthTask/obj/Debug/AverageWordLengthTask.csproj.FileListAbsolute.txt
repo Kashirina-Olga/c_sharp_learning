@@ -1,0 +1,5 @@
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\AverageWordLengthTask\bin\Debug\AverageWordLengthTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\AverageWordLengthTask\bin\Debug\AverageWordLengthTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\AverageWordLengthTask\bin\Debug\AverageWordLengthTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\AverageWordLengthTask\obj\Debug\AverageWordLengthTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\AverageWordLengthTask\obj\Debug\AverageWordLengthTask.pdb

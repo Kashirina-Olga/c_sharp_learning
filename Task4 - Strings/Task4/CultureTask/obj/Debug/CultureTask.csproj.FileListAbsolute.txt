@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\CultureTask\bin\Debug\CultureTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\CultureTask\bin\Debug\CultureTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\CultureTask\bin\Debug\CultureTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\CultureTask\obj\Debug\CultureTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\CultureTask\obj\Debug\CultureTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\CultureTask\obj\Debug\CultureTask.csprojResolveAssemblyReference.cache

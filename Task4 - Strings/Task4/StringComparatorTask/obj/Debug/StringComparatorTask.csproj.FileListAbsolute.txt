@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\StringComparatorTask\bin\Debug\StringComparatorTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\StringComparatorTask\bin\Debug\StringComparatorTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\StringComparatorTask\bin\Debug\StringComparatorTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\StringComparatorTask\obj\Debug\StringComparatorTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\StringComparatorTask\obj\Debug\StringComparatorTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\StringComparatorTask\obj\Debug\StringComparatorTask.csprojResolveAssemblyReference.cache

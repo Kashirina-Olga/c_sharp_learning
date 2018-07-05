@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\DoubleCharsTask\bin\Debug\DoubleCharsTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\DoubleCharsTask\obj\Debug\DoubleCharsTask.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\DoubleCharsTask\bin\Debug\DoubleCharsTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\DoubleCharsTask\bin\Debug\DoubleCharsTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\DoubleCharsTask\obj\Debug\DoubleCharsTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task4 - Strings\Task4\DoubleCharsTask\obj\Debug\DoubleCharsTask.pdb
