@@ -1,0 +1,5 @@
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\Hierarchy\bin\Debug\Hierarchy.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\Hierarchy\bin\Debug\Hierarchy.exe
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\Hierarchy\bin\Debug\Hierarchy.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\Hierarchy\obj\Debug\Hierarchy.exe
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\Hierarchy\obj\Debug\Hierarchy.pdb

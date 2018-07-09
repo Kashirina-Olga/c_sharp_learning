@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\RingTask\bin\Debug\RingTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\RingTask\obj\Debug\RingTask.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\RingTask\bin\Debug\RingTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\RingTask\bin\Debug\RingTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\RingTask\obj\Debug\RingTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task6 - OOP\Task6\RingTask\obj\Debug\RingTask.pdb
