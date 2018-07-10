@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task8 - Generalizations\Task8\DynamicArrayTask\bin\Debug\DynamicArrayTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task8 - Generalizations\Task8\DynamicArrayTask\bin\Debug\DynamicArrayTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task8 - Generalizations\Task8\DynamicArrayTask\bin\Debug\DynamicArrayTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task8 - Generalizations\Task8\DynamicArrayTask\obj\Debug\DynamicArrayTask.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task8 - Generalizations\Task8\DynamicArrayTask\obj\Debug\DynamicArrayTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task8 - Generalizations\Task8\DynamicArrayTask\obj\Debug\DynamicArrayTask.pdb
