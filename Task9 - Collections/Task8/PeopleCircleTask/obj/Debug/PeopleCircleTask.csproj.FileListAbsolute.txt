@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircleTask\bin\Debug\PeopleCircleTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircleTask\bin\Debug\PeopleCircleTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircleTask\bin\Debug\PeopleCircleTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircleTask\obj\Debug\PeopleCircleTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircleTask\obj\Debug\PeopleCircleTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircleTask\obj\Debug\PeopleCircleTask.csprojResolveAssemblyReference.cache

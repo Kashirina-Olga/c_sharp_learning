@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\EnglishTextTask\bin\Debug\EnglishTextTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\EnglishTextTask\bin\Debug\EnglishTextTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\EnglishTextTask\bin\Debug\EnglishTextTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\EnglishTextTask\obj\Debug\EnglishTextTask.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\EnglishTextTask\obj\Debug\EnglishTextTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\EnglishTextTask\obj\Debug\EnglishTextTask.pdb

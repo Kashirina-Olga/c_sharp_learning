@@ -1,0 +1,5 @@
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircle\bin\Debug\PeopleCircle.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircle\bin\Debug\PeopleCircle.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircle\bin\Debug\PeopleCircle.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircle\obj\Debug\PeopleCircle.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\PeopleCircle\obj\Debug\PeopleCircle.pdb

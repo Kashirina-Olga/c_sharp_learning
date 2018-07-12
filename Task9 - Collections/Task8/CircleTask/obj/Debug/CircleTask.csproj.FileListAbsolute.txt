@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\CircleTask\bin\Debug\CircleTask.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\CircleTask\bin\Debug\CircleTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\CircleTask\bin\Debug\CircleTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\CircleTask\obj\Debug\CircleTask.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\CircleTask\obj\Debug\CircleTask.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\CircleTask\obj\Debug\CircleTask.csprojResolveAssemblyReference.cache

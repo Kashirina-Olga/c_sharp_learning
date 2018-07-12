@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\Task8\bin\Debug\Task8.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\Task8\bin\Debug\Task8.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\Task8\bin\Debug\Task8.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\Task8\obj\Debug\Task8.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\Task8\obj\Debug\Task8.exe
+D:\OLGA\RGS\Подготовка\Задания\Task9 - Collections\Task8\Task8\obj\Debug\Task8.pdb
