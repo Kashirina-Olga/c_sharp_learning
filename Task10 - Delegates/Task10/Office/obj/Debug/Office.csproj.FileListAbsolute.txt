@@ -1,0 +1,6 @@
+D:\OLGA\RGS\Подготовка\Задания\Task10 - Delegates\Task10\Office\bin\Debug\Office.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task10 - Delegates\Task10\Office\bin\Debug\Office.exe
+D:\OLGA\RGS\Подготовка\Задания\Task10 - Delegates\Task10\Office\bin\Debug\Office.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task10 - Delegates\Task10\Office\obj\Debug\Office.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task10 - Delegates\Task10\Office\obj\Debug\Office.exe
+D:\OLGA\RGS\Подготовка\Задания\Task10 - Delegates\Task10\Office\obj\Debug\Office.pdb
