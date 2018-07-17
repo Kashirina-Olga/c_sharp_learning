@@ -1,0 +1,8 @@
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ConsoleAppForLibrary\bin\Debug\ConsoleAppForLibrary.exe.config
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ConsoleAppForLibrary\bin\Debug\ConsoleAppForLibrary.exe
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ConsoleAppForLibrary\bin\Debug\ConsoleAppForLibrary.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ConsoleAppForLibrary\bin\Debug\ClassLibrary.dll
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ConsoleAppForLibrary\bin\Debug\ClassLibrary.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ConsoleAppForLibrary\obj\Debug\ConsoleAppForLibrary.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ConsoleAppForLibrary\obj\Debug\ConsoleAppForLibrary.exe
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ConsoleAppForLibrary\obj\Debug\ConsoleAppForLibrary.pdb

@@ -1,0 +1,5 @@
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ClassLibrary\bin\Debug\ClassLibrary.dll
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ClassLibrary\bin\Debug\ClassLibrary.pdb
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ClassLibrary\obj\Debug\ClassLibrary.csprojResolveAssemblyReference.cache
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ClassLibrary\obj\Debug\ClassLibrary.dll
+D:\OLGA\RGS\Подготовка\Задания\Task11 - .Net\Task11\ClassLibrary\obj\Debug\ClassLibrary.pdb
